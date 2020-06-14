@@ -69,4 +69,6 @@ python3 price_ingest_dataflow.py
 
 ## Conclusão 
 
-Após rodar todos os scripts será criado 3 tabelas e a tabela de log será alimentada, assim poodemos monitorar o processo de ingestão com o data studio conectado a tabela de logs.
+Após rodar todos os scripts, sendo um flow para cada script, será criado 3 tabelas e a tabela de log será alimentada, assim poodemos monitorar o processo de ingestão com o data studio conectado a tabela de logs.
+
+![dataflow](dataflow.png)
